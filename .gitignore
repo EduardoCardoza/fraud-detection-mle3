@@ -1,0 +1,29 @@
+# Datos pesados
+data/raw/*.csv
+data/processed/*.csv
+
+# MLflow y modelos locales y los artefactos resultantes de estos
+mlruns/
+mlartifacts/
+*.pkl
+*.joblib
+
+# Entorno, variables de entorno y secretos
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor y sistema
+.vscode/
+.DS_Store
+Thumbs.db
