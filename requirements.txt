@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+scikit-learn
+lightgbm
+mlflow
+shap
+lime
+evidently==0.7.23
+matplotlib
+python-dotenv
+jupyter
+ipykernel
