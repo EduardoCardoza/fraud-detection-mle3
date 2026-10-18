@@ -1,0 +1,7 @@
+{
+  "id": "01a14d8e-9320-797a-a988-7cd508a4abb9",
+  "name": "Fraude PaySim: monitoreo (datos reales)",
+  "description": "Ventanas de 24 steps (1 step = 1 hora simulada) vs referencia steps 301-400.",
+  "org_id": null,
+  "version": "2"
+}
